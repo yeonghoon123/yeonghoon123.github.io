@@ -1,7 +1,7 @@
 ---
 title: blog
 author: Dinesh Prasanth Moluguwan Krishnamoorthy
-date: 2021-01-03 18:32:00 -0500
+date: 2021-12-02 17:32:00 +0900
 categories: [소개글, 소개 내용]
 tags: [blog Info]
 ---
